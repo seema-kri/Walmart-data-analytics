@@ -8,9 +8,9 @@
 
 Most portfolios show *analysis*. This project demonstrates **business impact, scalability, and decision-making clarity**.
 
-✔ Built like a real-world BI system used by enterprise teams
-✔ Processes **550,000+ transactions** across multiple dimensions
-✔ Answers **critical business questions executives actually ask**
+✔ Built like a real-world BI system used by enterprise teams 
+✔ Processes **550,000+ transactions** across multiple dimensions 
+✔ Answers **critical business questions executives actually ask** 
 ✔ Delivers a **decision-ready dashboard — not just charts**
 
 ---
