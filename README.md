@@ -19,7 +19,7 @@ Most portfolios show *analysis*. This project demonstrates **business impact, sc
 
 ### Executive Summary
 
-![Executive](images/Executive%20Summary.png)
+![Executive](images/Excecutive%20Summary.png)
 
 ### Product & Store Insights
 
