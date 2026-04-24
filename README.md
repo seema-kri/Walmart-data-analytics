@@ -11,11 +11,9 @@
 
 ## Dashboard Preview
 
-> **[▶ Click to see live dashboard walkthrough]** *(add GIF here)*
-
 | Executive Summary | Product & Store | Customer & Employee |
 |---|---|---|
-| ![Executive Summary](images/Executive%20Summary.png) | ![Product & Store](images/Product%20%26%20Store.png) | ![Customer & Employee](images/Customer%20%26%20Employee.png) |
+| ![Executive Summary](images/Excecutive%20Summary.png) | ![Product & Store](images/Product%20%26%20Store.png) | ![Customer & Employee](images/Customer%20%26%20Employee.png) |
 
 ---
 
